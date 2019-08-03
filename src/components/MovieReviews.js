@@ -13,4 +13,5 @@ const MovieReviews = (props) => (
 	</ul>
 	</div>
 )
-export default MovieReviews; 
+
+export default MovieReviews;
